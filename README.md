@@ -3,7 +3,7 @@ The aim of this project is to create a library in Python based on a taxonomy of 
 
 * What is the opposite of generosity? What is the contrary of audacity?
 
-<img align="right" width="35%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix of concepts.jpg">
+<img align="right" width="35%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/screen.jpg">
 
 ## project history
 This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
