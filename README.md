@@ -13,7 +13,7 @@ Software tools are available for this project.
 The code generator creates python code for the relevant taxonomy of concepts.
 
 ## corpus generator
-This tool creates of corpus of citations, that can be used to train an AI
+This tool creates of corpus of citations, that can be used to train an AI.
 
 # How to contribute?
 You can contribute to the project by completing, enriching or correcting the dictionaries, or by participating in the development of the software tools associated with the project. The dictionaries are presented as .csv files, so that their structure is easily accessible and understandable without any specialised computer knowledge.
