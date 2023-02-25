@@ -19,3 +19,5 @@ Allows to create derived words from lemmas.
 You can contribute to the project by completing, enriching or correcting the multilingual dictionary, or by participating in the development of the software tools associated with the project. The dictionary is presented as a .csv file, so that its structure is easily accessible and understandable without any specialised computer knowledge.
 
 # References
+This project is based on my paper entitled:
+* Franceschi, P. (2002), ‘Une classe de concepts’, Semiotica 139: 211-226.
