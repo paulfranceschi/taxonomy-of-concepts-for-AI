@@ -20,6 +20,7 @@ You can contribute to the project by completing, enriching or correcting the dic
 # References
 This project is based on my paper entitled:
 * Franceschi, P. (2002), ‘Une classe de concepts’, Semiotica 139: 211-226. doi.org/10.1515.semi.2002.020
+
 that introduces the matrices of concepts.
 
 An English translation is also available:
