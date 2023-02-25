@@ -1,7 +1,5 @@
 # taxonomy-of-concepts
 
-<img align="right" width="35%" src="https://github.com/pilinu/okchakko-project/blob/main/logo/okchakko-project-logo.png">
-
 # General considerations
 
 ## project history
