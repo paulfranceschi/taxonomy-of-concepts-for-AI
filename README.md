@@ -17,7 +17,7 @@ Software tools are available for this project that consist of:
 The code generator creates python code for the relevant taxonomy of concepts. The code generator starts with a list of concepts organised in a 6-column table, and automatically and instantly generates the corresponding code. To generate this list of concepts, a simple .csv file can be used.
 
 ## corpus generator
-This tool creates of corpus of citations, that can be used to train an AI.
+This tool creates of corpus of citations based on the taxonomy of concepts, that can notably be used to train an AI.
 
 # How to contribute?
 You can contribute to the project by completing, enriching or correcting the dictionaries, or by participating in the development of the software tools associated with the project. The dictionaries are presented as .csv files, so that their structure is easily accessible and understandable without any specialised computer knowledge.
