@@ -1,9 +1,10 @@
 # General considerations
+
+<img align="right" width="60%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/screen.jpg">
+
 The aim of this project is to create a library in Python based on a taxonomy of commonly used concepts, so that it can be used in projects related to artificial intelligence (AI) and natural language understanding. The library that is part of the module is intended to allow an AI to answer a broad range of questions such as:
 
 * What is the opposite of generosity? What is the contrary of audacity?
-
-<img align="right" width="50%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/screen.jpg">
 
 ## project history
 This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
