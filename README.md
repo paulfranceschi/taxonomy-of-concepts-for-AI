@@ -37,5 +37,4 @@ This project is published under the MIT license.
 This project is based on the structure of concepts put forth in my paper entitled:
 * Franceschi, Paul (2002), ‘Une classe de concepts’, Semiotica 139: 211-226. doi.org/10.1515.semi.2002.020
 
-that introduces the matrices of concepts. An [English translation](https://www.paulfranceschi.com/blog/on-a-class-of-concepts/) is also available:
-* 
+that introduces the matrices of concepts. An [English translation](https://www.paulfranceschi.com/blog/on-a-class-of-concepts/) is also available.
