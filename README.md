@@ -12,7 +12,7 @@ This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.c
 # Software tools
 Software tools are available for this project that consist of:
 * a python module
-* a set of .csv files that contain the organized list of concepts, one for each language
+* a set of .csv files that contain the list of concepts organized according to the matrices of concepts' structure. There is one .csv file for each language
 
 ## code generator
 The code generator creates python code for the relevant taxonomy of concepts. The code generator starts with a list of concepts organised in a 6-column table, and automatically and instantly generates the corresponding code. To generate this list of concepts, a simple .csv file can be used. The result is a nested python dictionary of concepts which, among other things, makes it possible to determine for each concept its opposite, its complementary concept, etc. In addition, the various concept dictionaries inherent in each language are themselves integrated into a list of dictionaries, resulting in a multilanguage module.
