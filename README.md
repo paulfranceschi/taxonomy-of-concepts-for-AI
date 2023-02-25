@@ -1,7 +1,7 @@
 # General considerations
 The aim of this project is to create a library in Python based on a taxonomy of commonly used concepts, so that it can be used in projects related to artificial intelligence and natural language understanding.
 
-<img align="right" width="35%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix of concepts - structure.jpg">
+<img align="right" width="35%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix of concepts.jpg">
 
 ## project history
 This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
