@@ -1,5 +1,8 @@
 # General considerations
-The aim of this project is to create a library in Python based on a taxonomy of commonly used concepts, so that it can be used in projects related to artificial intelligence and natural language understanding.
+The aim of this project is to create a library in Python based on a taxonomy of commonly used concepts, so that it can be used in projects related to artificial intelligence and natural language understanding. The library that is part of the module is intended to allow an IA to answer a wide range of questions such as:
+
+* what is the opposite of generosity?
+* what is the contrary of audacity?
 
 <img align="right" width="35%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix of concepts.jpg">
 
