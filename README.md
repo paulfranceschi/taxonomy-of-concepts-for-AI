@@ -1,6 +1,6 @@
 # General considerations
 
-<img align="right" width="35%" src="https://github.com/pilinu/taxonomy-of-concepts/blob/main/matrix of concepts - structure.jpg">
+<img align="right" width="35%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix of concepts - structure.jpg">
 
 ## project history
 This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
