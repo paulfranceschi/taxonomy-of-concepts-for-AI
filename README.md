@@ -5,7 +5,7 @@
 The aim of this project is to create a library in Python based on a taxonomy of commonly used concepts, so that it can be used in projects related to artificial intelligence (AI) and natural language understanding and processing. The library that is part of the module is intended to allow an AI to answer a broad range of questions such as:
 
 * What is the opposite of generosity? What is the contrary of audacity?
-* Can you complete the following sentence, where the last word is missing: cowardice and recklessness are in the same type of relationship as stinginess and ...
+* Can you complete the following sentence, where the last word is missing: cowardice and recklessness are in the same type of relationship as stinginess and ... Can you complete the following sentence, where the last word is missing: prodigality and avarice are in the same type of relationship as inclemency and ...
 
 ## project history
 This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
