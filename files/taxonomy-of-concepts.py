@@ -145,8 +145,6 @@ page1frame2.configure(bg='#C0DCC0')
 
 icon10 = PhotoImage(file = "text-x-python.png")
 
-# input = scrolledtext.ScrolledText(page1frame1, width = 40, height = 3, font =("Times New Roman", 11),wrap=tk.WORD)
-# input.pack(pady=py, side="top", fill="both", expand=True) #needs own line
 sheet6 = tksheet.Sheet(page1frame1, width=800, height=300, total_columns=7, total_rows=15, show_x_scrollbar=True, show_y_scrollbar=True)
 sheet6.font(newfont=("Times New Roman", 11, "normal"))
 sheet6.headers(['A+','A0','A-','Ā+','Ā0','Ā-','*'])
@@ -155,8 +153,6 @@ sheet6.enable_bindings("all")
 output = scrolledtext.ScrolledText(page1frame1, width=40, height=4)
 output.pack(pady=py, fill="both", expand=True)
 
-# button25 = tk.Button(page1frame2, text="Load csv", command=loadcsv_clicked)
-# button25.pack(pady=py, fill="x")
 button26 = tk.Button(page1frame2, image=icon10, compound="left", text="Generate dictionary code", command=generatecode_clicked)
 button26.pack(pady=py, fill="x")
 button27 = tk.Button(page1frame2, text="Test #1", command=twocontraryeng_clicked)
