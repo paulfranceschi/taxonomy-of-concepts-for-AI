@@ -8,15 +8,16 @@
 This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
 
 # Software tools
-Software tools (dictionary expander, conjugators, etc.) for:
-- endangered languages
-- major languages, in order to build the associated translation pairs: for example, italian-sassarese, french-corsican, etc.
+Software tools are available for this project.
 
-## dictionary expander
-Allows to create derived words from lemmas.
+## code generator
+The code generator creates python code for the relevant taxonomy of concepts.
+
+## corpus generator
+This tool creates of corpus of citations, that can be used to train an AI
 
 # How to contribute?
-You can contribute to the project by completing, enriching or correcting the multilingual dictionary, or by participating in the development of the software tools associated with the project. The dictionary is presented as a .csv file, so that its structure is easily accessible and understandable without any specialised computer knowledge.
+You can contribute to the project by completing, enriching or correcting the dictionaries, or by participating in the development of the software tools associated with the project. The dictionaries are presented as .csv files, so that its structure is easily accessible and understandable without any specialised computer knowledge.
 
 # References
 This project is based on my paper entitled:
