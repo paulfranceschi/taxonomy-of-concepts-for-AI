@@ -7,7 +7,9 @@ The aim of this project is to create a library in Python based on a taxonomy of 
 This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
 
 # Software tools
-Software tools are available for this project.
+Software tools are available for this project that consist of:
+* a python module
+* a set of .csv files that contain the organized list of concepts, one for each language
 
 ## code generator
 The code generator creates python code for the relevant taxonomy of concepts. The code generator starts with a list of concepts organised in a 6-column table, and automatically and instantly generates the corresponding code. To generate this list of concepts, a simple .csv file can be used.
