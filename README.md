@@ -10,7 +10,7 @@ This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.c
 Software tools are available for this project.
 
 ## code generator
-The code generator creates python code for the relevant taxonomy of concepts. The code generator starts with a list of concepts organised in a 6-column table, and automatically and instantly generates the corresponding code.
+The code generator creates python code for the relevant taxonomy of concepts. The code generator starts with a list of concepts organised in a 6-column table, and automatically and instantly generates the corresponding code. To generate this list of concepts, a simple .csv file can be used.
 
 ## corpus generator
 This tool creates of corpus of citations, that can be used to train an AI.
