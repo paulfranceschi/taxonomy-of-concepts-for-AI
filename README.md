@@ -23,7 +23,7 @@ This tool creates of corpus of citations based on the taxonomy of concepts, that
 You can contribute to the project by completing, enriching or correcting the dictionaries, or by participating in the development of the software tools associated with the project. The dictionaries are presented as .csv files, so that their structure is easily accessible and understandable without any specialised computer knowledge.
 
 # A multilingual project
-This project is intended to be multilingual and provides the tools for its extension to other languages. Endangered langugaes are especially welcome.
+This project is intended to be multilingual and provides the tools for its extension to other languages. Endangered languages are especially welcome.
 
 # License
 This project is published under the MIT license.
