@@ -28,6 +28,8 @@ You can contribute to the project by completing, enriching or correcting the dic
 This project is intended to be multilingual and provides the tools for its extension to other languages. Endangered languages are especially welcome.
 
 # License
+<img align="right" width="35%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix of concepts.jpg">
+
 This project is published under the MIT license.
 
 # References
