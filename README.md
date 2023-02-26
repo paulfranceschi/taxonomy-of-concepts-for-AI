@@ -25,6 +25,11 @@ This tool [to be implemented] is a citation generator. It allows to create:
 * a set of citations based on the taxonomy of concepts
 * a corpus of citations, that can notably be used to train an AI
 
+The kinds of citations that are generated are of the following type:
+* courage is the contrary of cowardice
+* avarice is the contrary of generosity
+* firmness is complementary to clemency
+
 # How to contribute?
 You can contribute to the project by completing, enriching or correcting the dictionaries, or by participating in the development of the software tools associated with the project. The dictionaries are presented as .csv files, so that their structure is easily accessible and understandable without any specialised computer knowledge.
 
