@@ -34,7 +34,7 @@ The kinds of citations that are generated are of the following type:
 <img align="right" width="30%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix-of-concepts.jpg">
 The matrix of concepts is a structure that includes six concepts, which is suitable for modeling many common concepts, such as: courage, recklessness, irresolution, eclecticism, superficiality, clemency, instability, selfishness, objectivity, frankness, brusqueness, altruism, etc. Of the six concepts in the matrix:
 
-* two are neutral: A^0 and Ā0
+* two are neutral: A0 and Ā0
 * two are positive: A+ and Ā+
 * two are negative: A- and Ā-
 
