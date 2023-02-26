@@ -47,6 +47,15 @@ The six concepts of the matrix are in particular relationships with each other. 
 * the positive concepts A+ and Ā+ are complementary
 * lastly, the negative concepts A- and Ā- are extreme opposites
 
+In the above instance of matrix of concepts:
+
+* the propensity to take risks and the propensity to avoid risks are dual
+* audacity and cowardice are contrary, opposite; in the same way, temerity and prudence are contrary, opposite
+* audacity and prudence are complementary
+* temerity and cowardice are extreme opposites
+
+Moreover, the three concepts located on the left of the matrix constitute a half-matrix: it is the half-matrix associated with the pole A. In the same way, the three concepts located on the right of the matrix constitute the half-matrix associated to the pole Ā.
+
 # How to contribute?
 You can contribute to the project by completing, enriching or correcting the dictionaries, or by participating in the development of the software tools associated with the project. The dictionaries are presented as .csv files, so that their structure is easily accessible and understandable without any specialised computer knowledge.
 
