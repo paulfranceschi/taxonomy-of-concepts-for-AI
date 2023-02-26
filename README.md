@@ -31,7 +31,7 @@ The kinds of citations that are generated are of the following type:
 * firmness is complementary to clemency
 
 # Matrices of concepts
-<img align="right" width="35%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix-of-concepts.jpg">
+<img align="right" width="30%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix-of-concepts.jpg">
 The matrix of concepts is a structure that includes six concepts, which is suitable for modeling many common concepts, such as: courage, recklessness, irresolution, eclecticism, superficiality, clemency, instability, selfishness, objectivity, frankness, brusqueness, altruism, etc. Of the six concepts in the matrix:
 
 * two are neutral: A0 and Ā0
@@ -47,7 +47,7 @@ The six concepts of the matrix are in particular relationships with each other. 
 * the positive concepts A+ and Ā+ are complementary
 * lastly, the negative concepts A- and Ā- are extreme opposites
 
-<img align="right" width="35%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix-of-concepts-instance.jpg">
+<img align="right" width="50%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix-of-concepts-instance.jpg">
 In the instance of matrix of concepts pictured on the right:
 
 * the propensity to take risks and the propensity to avoid risks are dual
