@@ -48,7 +48,7 @@ The six concepts of the matrix are in particular relationships with each other. 
 * lastly, the negative concepts A- and Ā- are extreme opposites
 
 <img align="right" width="35%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix-of-concepts-instance.jpg">
-In the above instance of matrix of concepts:
+In the instance of matrix of concepts pictured on the right:
 
 * the propensity to take risks and the propensity to avoid risks are dual
 * audacity and cowardice are contrary, opposite; in the same way, temerity and prudence are contrary, opposite
