@@ -38,6 +38,15 @@ The matrix of concepts is a structure that includes six concepts, which is suita
 * two are positive: A+ and Ā+
 * two are negative: A- and Ā-
 
+These six concepts constitute the canonical poles of the matrix.
+
+The six concepts of the matrix are in particular relationships with each other. Thus:
+
+* the neutral concepts A0 and Ā0 are dual
+* the positive concept A+ and the negative concept Ā- are opposite (or contrary); similarly, the negative concept A-  and the positive concept Ā+ are opposite (or contrary)
+* the positive concepts A+ and Ā+ are complementary
+* lastly, the negative concepts A- and Ā- are extreme opposites
+
 # How to contribute?
 You can contribute to the project by completing, enriching or correcting the dictionaries, or by participating in the development of the software tools associated with the project. The dictionaries are presented as .csv files, so that their structure is easily accessible and understandable without any specialised computer knowledge.
 
