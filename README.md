@@ -36,6 +36,11 @@ This project is intended to be multilingual and provides the tools for its exten
 
 This project is published under the MIT license. 
 
+# Acknowledgements
+Icons are from:
+* [ogygen-icons](https://github.com/KDE/oxygen-icons)
+* and from [tango-icon-library](https://github.com/freedesktop/tango-icon-library)
+
 # References
 This project is based on the structure of concepts put forth in my paper entitled:
 * Franceschi, Paul (2002), ‘Une classe de concepts’, Semiotica 139: 211-226. doi.org/10.1515.semi.2002.020
