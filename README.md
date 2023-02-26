@@ -9,7 +9,7 @@ The aim of this project is to create a library in Python based on a taxonomy of 
 * Can you complete the following sentence, where the last word is missing: cowardice and cautiousness are in the same type of relationship as stinginess and ... 
 * Can you complete the following sentence, where the last word is missing: prodigality and avarice are in the same type of relationship as inclemency and ...
 
-## project history
+## Project history
 This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
 
 # Software tools
