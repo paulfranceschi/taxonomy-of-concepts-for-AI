@@ -47,6 +47,7 @@ The six concepts of the matrix are in particular relationships with each other. 
 * the positive concepts A+ and Ā+ are complementary
 * lastly, the negative concepts A- and Ā- are extreme opposites
 
+<img align="right" width="35%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix-of-concepts-instance.jpg">
 In the above instance of matrix of concepts:
 
 * the propensity to take risks and the propensity to avoid risks are dual
