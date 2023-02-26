@@ -42,10 +42,10 @@ These six concepts constitute the canonical poles of the matrix.
 
 The six concepts of the matrix are in particular relationships with each other. Thus:
 
-* the neutral concepts A0 and Ā0 are dual
-* the positive concept A+ and the negative concept Ā- are opposite (or contrary); similarly, the negative concept A-  and the positive concept Ā+ are opposite (or contrary)
-* the positive concepts A+ and Ā+ are complementary
-* lastly, the negative concepts A- and Ā- are extreme opposites
+* the neutral concepts A<sup>0</sup> and Ā<sup>0</sup> are dual
+* the positive concept A<sup>+</sup> and the negative concept Ā<sup>-</sup> are opposite (or contrary); similarly, the negative concept A<sup>-</sup>  and the positive concept Ā<sup>+</sup> are opposite (or contrary)
+* the positive concepts A<sup>+</sup> and Ā<sup>+</sup> are complementary
+* lastly, the negative concepts A<sup>-</sup> and Ā<sup>-</sup> are extreme opposites
 
 <img align="right" width="50%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix-of-concepts-instance.jpg">
 In the instance of matrix of concepts pictured on the right:
