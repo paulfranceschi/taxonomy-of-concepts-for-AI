@@ -22,7 +22,7 @@ The code generator creates python code for the relevant taxonomy of concepts. Th
 dic[ENG]['courage']['2-contrary'] and the result is: 'cowardice'.
 
 ## Corpus generator
-This tool [to be implemented] is a citation generator. It allows to create:
+This tool is a citation generator. It allows to create:
 * a set of citations based on the taxonomy of concepts
 * a corpus of citations, that can notably be used to train an AI
 
