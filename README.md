@@ -12,6 +12,10 @@ The aim of this project is to create a library in Python based on a taxonomy of 
 ## Project history
 This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
 
+* v0.97: expanded corpus generator
+* v0.96: added corpus generator
+* v0.95: first version
+
 # Software tools
 Software tools are available for this project that consist of:
 * a python module
