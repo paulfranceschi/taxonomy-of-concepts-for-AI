@@ -12,6 +12,7 @@ The aim of this project is to create a library in Python based on a taxonomy of 
 ## Project history
 This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
 
+* v0.99: optimized prompts and completions for fine-tuning
 * v0.98: expanded corpus generator and added prompts and completions for fine-tuning
 * v0.97: expanded corpus generator
 * v0.96: added corpus generator
