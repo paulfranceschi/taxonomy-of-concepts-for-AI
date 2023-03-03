@@ -31,7 +31,7 @@ The code generator creates python code for the relevant taxonomy of concepts. Th
 dic[ENG]['courage']['2-contrary'] and the result is: 'cowardice'.
 
 ## Corpus generator
-This tool can be used to prepare training data. It allows the design prompts and completions for fine-tuning.
+This tool can be used to prepare training data. It allows the design of prompts and completions for fine-tuning.
 
 The corpus genrator is also a citation generator. It allows to create:
 * a set of citations based on the taxonomy of concepts
