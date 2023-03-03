@@ -1,3 +1,4 @@
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 # General considerations
 
 <img align="right" width="75%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/screen3.jpg">
