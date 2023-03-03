@@ -81,7 +81,10 @@ This project is based on the structure of concepts put forth in my paper entitle
 that introduces the matrices of concepts. An [English translation](https://www.paulfranceschi.com/blog/on-a-class-of-concepts/) is also available.
 
 # How to contribute?
-You can contribute to the project by completing, enriching or correcting the dictionaries, or by participating in the development of the software tools associated with the project. The dictionaries are presented as .csv files, so that their structure is easily accessible and understandable without any specialised computer knowledge.
+You can contribute to the project in different ways:
+* by completing, enriching or correcting the concepts' lists. They are presented as .csv files (in utf8 format), so that their structure is easily accessible and understandable without any specialised computer knowledge.
+* by translating the concepts' lists into toher languages. Endangered languages are very welcome.
+* by participating in the development of the software tools associated with the project. 
 
 # A multilingual project
 This project is intended to be multilingual and provides the tools for its extension to other languages. Endangered languages are especially welcome.
