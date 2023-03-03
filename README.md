@@ -83,7 +83,7 @@ that introduces the matrices of concepts. An [English translation](https://www.p
 # How to contribute?
 You can contribute to the project in different ways:
 * by completing, enriching or correcting the concepts' lists. They are presented as .csv files (in utf8 format), so that their structure is easily accessible and understandable without any specialised computer knowledge.
-* by translating the concepts' lists into toher languages. Endangered languages are very welcome.
+* by translating the concepts' lists into other languages. Endangered languages are very welcome.
 * by participating in the development of the software tools associated with the project. 
 
 # A multilingual project
