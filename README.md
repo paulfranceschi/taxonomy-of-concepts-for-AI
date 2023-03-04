@@ -44,8 +44,8 @@ The corpus genrator is also a citation generator. It allows to create:
 
 The kinds of citations that are generated are of the following type:
 * courage is the contrary of cowardice
-* avarice is the contrary of generosity
 * firmness is complementary to clemency
+* prudence and cowardice are in the same relationship as generosity and prodigality.
 
 # Matrices of concepts
 <img align="right" width="30%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/matrix-of-concepts.jpg">
