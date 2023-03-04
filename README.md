@@ -19,6 +19,7 @@ The structured library that is part of the module is intended to provide the AI 
 ## Project history
 This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
 
+* v0.993: optimzed code for speed
 * v0.992: csv file upload expanded
 * v0.99: optimized prompts and completions for fine-tuning
 * v0.98: expanded corpus generator and added prompts and completions for fine-tuning
