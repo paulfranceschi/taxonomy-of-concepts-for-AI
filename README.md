@@ -2,7 +2,6 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ![Repo Size](https://img.shields.io/github/repo-size/paulfranceschi/taxonomy-of-concepts-for-AI)
 <!---! [GitHub Releases](https://img.shields.io/github/downloads/paulfranceschi/taxonomy-of-concepts-for-AI/total) --->
-[GitHub Releases](https://img.shields.io/github/downloads/paulfranceschi/taxonomy-of-concepts-for-AI/v0.992/total)
 # General considerations
 
 <img align="right" width="75%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/screen3.jpg">
