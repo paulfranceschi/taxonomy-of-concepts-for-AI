@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Taxonomy of concepts for AI improvement, based on matrices
+  of concepts
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Paul
+    family-names: Franceschi
+    name-particle: Paul
+    email: paul.franceschi@yahoo.fr
+    orcid: 'https://orcid.org/0000-0002-6372-8643'
+repository-code: >-
+  https://github.com/paulfranceschi/taxonomy-of-concepts-for-AI
+abstract: >-
+  The aim of this project is to create a library in Python
+  based on a taxonomy of commonly used concepts, so that it
+  can be used for artificial intelligence (AI) improvement.
+keywords:
+  - python
+  - taxonomy
+  - concepts
+  - natural language generation
+  - corpus generator
+  - citation generator
+  - common concepts
+  - natural language processing
+license: MIT
+version: v0.993
+date-released: '2023-03-04'
