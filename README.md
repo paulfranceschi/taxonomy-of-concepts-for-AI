@@ -1,5 +1,6 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Repo Size](https://img.shields.io/github/repo-size/paulfranceschi/taxonomy-of-concepts-for-AI)
 [![DOI](https://zenodo.org/badge/606455619.svg)](https://zenodo.org/badge/latestdoi/606455619)
 <!---! [GitHub Releases](https://img.shields.io/github/downloads/paulfranceschi/taxonomy-of-concepts-for-AI/total) --->
