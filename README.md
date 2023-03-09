@@ -38,11 +38,12 @@ Software tools are available for this project that consist of:
 The code generator creates python code for the relevant taxonomy of concepts. The code generator starts with a list of concepts organised in a 6-column table, and automatically and instantly generates the corresponding code. To generate this list of concepts, a simple .csv file can be used. The result is a nested python dictionary of concepts which, among other things, makes it possible to determine for each concept its opposite, its complementary concept, etc. In addition, the various concept dictionaries inherent in each language are themselves integrated into a list of dictionaries, resulting in a multilanguage module. In order to determine the opposite of the concept of 'courage' in English, simply type:
 dic[ENG]['courage']['2-contrary'] and the result is: 'cowardice'.
 
-## Corpus generator
+## Training data generator
 <img align="right" width="75%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/screen-training-data.jpg">
 This tool can be used to prepare training data. It allows the design of prompts and completions for fine-tuning.
 
-The corpus generator is also a citation generator. It allows to create:
+## Citation generator
+This tool is also a citation generator. It allows to create:
 * a set of citations based on the taxonomy of concepts
 * a corpus of citations, that can notably be used to train an AI
 
