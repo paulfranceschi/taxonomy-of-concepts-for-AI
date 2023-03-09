@@ -30,6 +30,7 @@ dic[ENG]['courage']['2-contrary'] and the result is: 'cowardice'.
 ## Training data generator
 <img align="right" width="75%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/screen-training-data.jpg">
 This tool can be used to prepare training data. It allows the design of prompts and completions for fine-tuning.
+
 An example of training data is as follows:
 * prompt: What is the contrary of irresolution?
 * completion: On the one hand, irresolution is a concept which has a negative connotation. On the other hand, resolution is a positive concept. Resolution is the contrary of irresolution.
