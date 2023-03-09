@@ -18,17 +18,6 @@ The structured library that is part of the module is intended to provide the AI 
 * Can you complete the following sentence, where the last word is missing: cowardice and cautiousness are in the same type of relationship as stinginess and ... 
 * Can you complete the following sentence, where the last word is missing: prodigality and avarice are in the same type of relationship as inclemency and ...
 
-## Project history
-This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
-
-* v0.993: optimzed code for speed
-* v0.992: csv file upload expanded
-* v0.99: optimized prompts and completions for fine-tuning
-* v0.98: expanded corpus generator and added prompts and completions for fine-tuning
-* v0.97: expanded corpus generator
-* v0.96: added corpus generator
-* v0.95: first version
-
 # Software tools
 Software tools are available for this project that consist of:
 * a python module
@@ -84,6 +73,17 @@ This project is based on the structure of concepts put forth in my paper entitle
 * Franceschi, Paul (2002), ‘Une classe de concepts’, Semiotica 139: 211-226. doi.org/10.1515.semi.2002.020
 
 that introduces the matrices of concepts. An [English translation](https://www.paulfranceschi.com/blog/on-a-class-of-concepts/) is also available.
+
+## Project history
+This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
+
+* v0.993: optimzed code for speed
+* v0.992: csv file upload expanded
+* v0.99: optimized prompts and completions for fine-tuning
+* v0.98: expanded corpus generator and added prompts and completions for fine-tuning
+* v0.97: expanded corpus generator
+* v0.96: added corpus generator
+* v0.95: first version
 
 # How to contribute?
 You can contribute to the project in different ways:
