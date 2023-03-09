@@ -41,7 +41,7 @@ dic[ENG]['courage']['2-contrary'] and the result is: 'cowardice'.
 <img align="right" width="75%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/screen-training-data.jpg">
 This tool can be used to prepare training data. It allows the design of prompts and completions for fine-tuning.
 
-The corpus genrator is also a citation generator. It allows to create:
+The corpus generator is also a citation generator. It allows to create:
 * a set of citations based on the taxonomy of concepts
 * a corpus of citations, that can notably be used to train an AI
 
