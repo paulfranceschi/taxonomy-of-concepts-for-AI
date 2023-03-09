@@ -11,7 +11,7 @@ The aim of this project is to create a library in Python based on a taxonomy of 
 * With which concept is blissful optimism in the same type of relationship as subjectivity and objectivity?
 
 The answer is: '... perception.' We propose here a set of training data that allow for a response of the type: 
-* 'On the one hand, blissful optimism is a negative concept. On the other hand, subjectivity is a negative one and objectivity is a positive concept. Thus, the missing concept is a positive one. Hence, blissful optimism and awareness of problems are in the same relationship as subjectivity and objectivity.'
+* On the one hand, blissful optimism is a negative concept. On the other hand, subjectivity is a negative one and objectivity is a positive concept. Thus, the missing concept is a positive one. Hence, blissful optimism and awareness of problems are in the same relationship as subjectivity and objectivity.
 
 The structured library that is part of the module is intended to provide the AI with a better grasp of these common concepts, such as courage, cowardice, prudence, optimism, prodigality, inclemency, clemency, objectivity, instability, ambition, etc. As a consequence, it will allow the AI to answer properly to a broad range of questions such as:
 
