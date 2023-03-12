@@ -5,7 +5,7 @@
 <!---! [GitHub Releases](https://img.shields.io/github/downloads/paulfranceschi/taxonomy-of-concepts-for-AI/total) --->
 # General considerations
 
-<img align="right" width="100%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/screen3.jpg">
+<img align="right" width="100%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/screen4.jpg">
 
 The aim of this project is to create a library in Python based on a taxonomy of commonly used concepts, so that it can be used for artificial intelligence (AI) improvement. Compelling though it is, in most cases, the GPT model answers questions like these incorrectly:
 * With which concept is blissful optimism in the same type of relationship as subjectivity and objectivity?
