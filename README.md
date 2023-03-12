@@ -32,8 +32,8 @@ dic[ENG]['courage']['2-contrary'] and the result is: 'cowardice'.
 This tool can be used to prepare training data. It allows the design of prompts and completions for fine-tuning.
 
 An example of training data is as follows:
-* prompt: What is the contrary of irresolution?
-* completion: On the one hand, irresolution is a concept which has a negative connotation. On the other hand, resolution is a positive concept. Resolution is the contrary of irresolution.
+* prompt: What is the contrary of courage?
+* completion: On the one hand, courage is a concept which has a positive connotation. It can be defined as the propensity to take risks appropriately. The propensity to take risks is a neutral concept. The dual concept of the propensity to take risks is the propensity to avoid risks. It is also a neutral concept. The contrary of courage is a negative concept, that can be defined as the propensity to avoid risks inappropriately. The concept of cowardice is a negative concept that fits this definition. Hence, cowardice is the contrary of courage.
 
 ## Citation generator
 This tool is also a citation generator. It allows to create:
