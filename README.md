@@ -81,7 +81,8 @@ that introduces the matrices of concepts. An [English translation](https://www.p
 ## Project history
 This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in February 2023.
 
-* v1.0.2: expanded completion for traiing data; Italian set of concepts
+* v1.1.0: expanded completion for training data related to questions of the type: 'What is the contrary of courage?'
+* v1.0.2: expanded completion for training data; Italian set of concepts
 * v0.993: optimzed code for speed
 * v0.992: csv file upload expanded
 * v0.99: optimized prompts and completions for fine-tuning
